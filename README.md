@@ -1,49 +1,51 @@
 # 7 IPTV
 
-7 IPTV is an Android IPTV player built for phones, tablets, Android TV, and TV boxes. It focuses on a clean TV-first experience, fast Xtream playlist import, Live TV preview, Movies, Series, and remote-control navigation.
+7 IPTV هو تطبيق IPTV لأجهزة Android و Android TV و TV Box. الهدف منه تشغيل البث المباشر، الأفلام، والمسلسلات بتجربة بسيطة ومناسبة للريموت والجوال.
 
-## Download
+7 IPTV is an Android IPTV player for phones, tablets, Android TV, and TV boxes. It focuses on Live TV, Movies, Series, TV remote navigation, and a clean playback experience.
 
-[Download 7 IPTV APK](https://github.com/gjt21123/7IPTV/releases/download/v3.1/7iptv.apk)
+## تحميل مباشر
 
-Direct APK link for Downloader and browsers:
+[تحميل التطبيق APK](https://github.com/gjt21123/7IPTV/releases/download/v3.1/7iptv.apk)
+
+رابط مباشر مناسب لتطبيق Downloader أو المتصفح:
 
 ~~~text
 https://github.com/gjt21123/7IPTV/releases/download/v3.1/7iptv.apk
 ~~~
 
-Latest public APK checksum:
+Checksum للتحقق من الملف:
 
 ~~~text
 a0ca18078abf45b166dd27b8462e3c5030d5f96d01ae053a16412fd990c7d730  7iptv.apk
 ~~~
 
-## Main Features
+## المميزات
 
-- Xtream Codes playlist support.
-- Live TV categories and channel browsing.
-- Focus-based Live preview before opening the full player.
-- Full-screen Live player optimized for remote controls and mobile landscape.
-- DPAD up/down channel zapping in the player.
-- Movies and Series browsing with metadata enrichment.
-- Lazy Series details and episode loading.
-- Restart persistence for the active source and ready catalogs.
-- Release APK built as a non-debug production package.
+- دعم مصادر Xtream Codes.
+- تصنيفات وقنوات Live TV.
+- معاينة القناة عند التنقل قبل فتح المشغل الكامل.
+- مشغل بث مباشر مناسب للشاشة والجوال.
+- التنقل بين القنوات من المشغل عبر DPAD up/down.
+- تصفح Movies و Series.
+- تحميل تفاصيل المسلسلات والحلقات عند الحاجة.
+- حفظ المصدر وحالة الأقسام بعد إعادة فتح التطبيق.
+- ملف APK production غير debug.
 
-## Android TV / TV Box Use
+## طريقة التثبيت على Android TV / TV Box
 
-1. Open Downloader on the device.
-2. Enter the direct APK link above, or use your short Downloader link that points to it.
-3. Install the APK.
-4. Open 7 IPTV and add your Xtream source.
-5. Test Live, Movies, Series, zapping, and restart persistence on your own device before using it as your main version.
+1. افتح تطبيق Downloader على الجهاز.
+2. أدخل رابط التحميل المباشر الموجود بالأعلى أو استخدم رابطك المختصر الذي يشير إليه.
+3. ثبت ملف APK.
+4. افتح 7 IPTV وأضف مصدر Xtream الخاص بك.
+5. جرّب Live و Movies و Series والتنقل بين القنوات قبل الاعتماد على النسخة بشكل كامل.
 
-## Notes
+## ملاحظات
 
-- This public repository is for APK distribution only.
-- Source code and signing material are not published here.
-- No credentials, keystores, or private configuration files are included.
-- Final physical-device acceptance remains with the owner/device tester.
+- هذا الريبوا العام مخصص لتحميل APK فقط.
+- كود المصدر وملفات التوقيع غير منشورة هنا.
+- لا توجد كلمات مرور، keystore، ملفات توقيع، logs، أو إعدادات خاصة داخل هذا الريبوا.
+- اختبار الجهاز الفعلي النهائي يبقى عند مالك الجهاز.
 
 ## Release
 
