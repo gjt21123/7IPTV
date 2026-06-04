@@ -17,7 +17,7 @@ https://github.com/gjt21123/7IPTV/releases/download/v3.1/7iptv.apk
 Checksum للتحقق من الملف:
 
 ~~~text
-56a8f646087930d749371e2442148fa793e1ae5961aa744505774d18ec6ea4fe  7iptv.apk
+7f1d53aac4243b6d28487375bbed20fce675e1711232c53019977e6c4bdaf917  7iptv.apk
 ~~~
 
 ## المميزات
